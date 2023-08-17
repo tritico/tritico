@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**tritico/tritico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello 👋
+My name is Matthew Tritico.
+I am currently working at [The Washington Post](https://www.washingtonpost.com/) as a Technical Architect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am a software engineer that has held positions as technical architect, principal engineer, technical project manager and executive director. I have over 20 years of software development experience, across a variety of languages and platforms, and almost 10 years of hands-on AWS practice, including certifications.
+
+- I am an avid supporter of the New Orleans tech community. For 8 consecutive years, I organized the popular [BarCampNola](http://barcampnola.com/) conference and engaged in numerous other community activities and speaking engagements.
+
+- I spoke at SXSW Interactive in 2009 and returned in 2010 to organize a panel representing the efforts of our Nola Tech community.
+
+- In 2016, I traveled and worked remotely across 12 different countries over 12 months as a member of the [2nd class of Remote Year](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*u6ccBJAQGfCJ6ILCQ0u9oA.png).
+
+
+## 👀 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/matthewtritico/)
