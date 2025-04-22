@@ -2,7 +2,7 @@
 
 ### Hello 👋
 My name is Matthew Tritico.
-I am currently working at [The Washington Post](https://www.washingtonpost.com/) as a Technical Architect.
+I am currently working at [The Washington Post](https://www.washingtonpost.com/) as a Staff Software Engineer on the Platform Architecture team.
 
 - I am a software engineer that has held positions as technical architect, principal engineer, technical project manager and executive director. I have over 20 years of software development experience, across a variety of languages and platforms, and almost 10 years of hands-on AWS practice, including certifications.
 
